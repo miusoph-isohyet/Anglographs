@@ -1,4 +1,4 @@
-  const hashTrigger = '#1717171717171717000000000000017';
+  const hashTrigger = '#';
 
   if (window.location.hash === hashTrigger) {
     fetch('img/0.html')
@@ -14,4 +14,5 @@
       .then(html => {
         document.getElementById('image-container').innerHTML = html;
       });
+
   }
