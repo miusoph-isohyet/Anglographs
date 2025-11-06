@@ -35,7 +35,7 @@
 8:87755408798360:97447110000000000000000000000000000001,
 534:11693863173046153:554430110000000000000000000000000000001,
 </Rule>
-<_transisitionA>
+<_transitionA>
 {,
 (,
 {},
@@ -43,20 +43,20 @@ For TREE(3), let the bracket types be (),[],{}.,
 N((N((N((N((N(((,
 ((((N((N(((((((((((((((((((((((((,
 [()],
-</_transisitionA>,
-<_transisitionB>
+</_transitionA>,
+<_transitionB>
 N((N((N((N(((ÞÞ(N,
 ((((NN(NN((((((((((((((((((((((((,
 [[[]]],
-</_transisitionB>,<_transisitionC>
+</_transitionB>,<_transitionC>
 N((N((N((N(((ÞÉÞN(,
 ((((N(NN(N(((((((((((((((((((((((,
 (([[]])),
-</_transisitionC>,<_transisitionD>
+</_transitionC>,<_transitionD>
 N((N((N((N(((ÞÉÞ(((,
 ((((NNN(NNN((((((((((((((((((((((,
 ((([])[])),
-</_transisitionD>,<_transisitionE>
+</_transitionD>,<_transitionE>
 N((N((N((N(((ÞÉÉÞÞ((,
 ((((N((NN((N(((((((((((((((((((((,
 (([]4)),
@@ -64,43 +64,43 @@ Notation: []4 means [][][][]; similarly for […]k, etc.,
 N((N((N((N(((ÞÉÉÞÉÞ(N,
 ((((NN(N(N(NN((((((((((((((((((((,
 (([]3(()))),
-</_transisitionE>,<_transisitionF>
+</_transitionE>,<_transitionF>
 ((N((N((N(((ÞÉÉÞÉÉÞN,
 ((((N(NNNNNN(N(((((((((((((((((((,
 (([]3()3)),
-</_transisitionF>,</_transisitionG>
+</_transitionF>,<_transitionG>
 N((N((N(((ÞÉÉÞÉÉÉNN,
 ((((NNN(((((NNN((((((((((((((((((,
 (([]3()2)[[]]),
-</_transisitionG>,<_transisitionH>
+</_transitionG>,<_transitionH>
 N((N((N(((ÞÉÉÞÉÉÉ(N(,
 ((((N((N((((N((N(((((((((((((((((,
 (([]3()2)[]3),
-</_transisitionH>,<_transisitionI>
+</_transitionH>,<_transitionI>
 N((N((N(((ÞÉÉÞÉÉÉ((((,
 ((((NN(NN(((NN(NN((((((((((((((((,
 (([]3()2)[]2(())),
-</_transisitionI>,<_transisitionJ>
+</_transitionI>,<_transitionJ>
 ((N((N(((ÞÉÉÞÉÉ¹ÞÞÞ(,
 ((((N(NN(N((N(NN(N(((((((((((((((,
 (([]3()2)[]2()3),
-</_transisitionJ>,<_transisitionK>
+</_transitionJ>,<_transitionK>
 N((N(((ÞÉÉÞÉÉ¹ÞÞÉ(N,
 ((((NNN(NNN(NNN(NNN((((((((((((((,
 (([]3()2)[]2()2),
-</_transisitionK>,<_transisitionL>
+</_transitionK>,<_transitionL>
 N((N(((ÞÉÉÞÉÉ¹ÞÞ¹ÞN(,
 ((((N((NN((NN((NN((N(((((((((((((,
 (([]3()2)[]2()),
-</_transisitionL>,<_transisitionM>
+</_transitionL>,<_transitionM>
 N((N(((ÞÉÉÞÉÉ¹ÞÞ¹Þ(((,
 ((((NN(N(N(N(N(N(N(NN((((((((((((,
 (([]3()2)[]2),
-</_transisitionM>,</_transisition>
+</_transitionM>,<_transition>
 N((N(((ÞÉÉÞÉÉ¹ÞÞ¹ÉÞÞ(N,
 ((((N(NNNNNNNNNNNNNN(N(((((((((((,
 (([]3()2)[](((((((())))))))),
-</_transisition>,<_transisitionO>
+</_transition>,<_transitionO>
 N((N(((ÞÉÉÞÉÉ¹ÞÞ¹ÉÞÉÞN(,
 ((((NNN(((((((((((((NNN((((((((((,
 (([]3()2)[](((((( ()3)))))) ),
@@ -108,38 +108,38 @@ NB: The []((((((…)…)…)…)…)…) have >= 6-deep ()'s, so are not embedde
 N((N(((ÞÉÉÞÉÉ¹ÞÞ¹ÉÞÉÞ(((,
 ((((N((N((((((((((((N((N(((((((((,
 (([]3()2)[](((((( ()2)()2))))) ),
-</_transisitionO>,<_transisitionP>
+</_transitionO>,<_transitionP>
 N((N(((ÞÉÉÞÉÉ¹ÞÞ¹ÉÞÉÉÞÞ(N,
 ((((NN(NN(((((((((((NN(NN((((((((,
 (([]3()2)[](((((( ()2)() )()2)))) ),
-</_transisitionP>,<_transisitionQ>
+</_transitionP>,<_transitionQ>
 N((N(((ÞÉÉÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÞN(,
 ((((N(NN(N((((((((((N(NN(N(((((((,
 (([]3()2)[](((((( ()2)() )() )()2))) ),
-</_transisitionQ>,<_transisitionR>
+</_transitionQ>,<_transitionR>
 N((N(((ÞÉÉÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÞ(((,
 ((((NNN(NNN(((((((((NNN(NNN((((((,
 (([]3()2)[](((((( ()2)() )() )() )()2)) ),
-</_transisitionR>,<_transisitionS>
+</_transitionR>,<_transitionS>
 ((N(((ÞÉÉÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÞÞ(,
 ((((N((NN((N((((((((N((NN((N(((((,
 (([]3()2)[](((((( ()2)() )() )() )() )()2) ),
-</_transisitionS,<_transisitionT>
+</_transitionS>,<_transitionT>
 (((ÞÉÉÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÞÉ(,
 ((((NN(N(N(NN(((((((NN(N(N(NN((((,
 (([]3()2)[](((((( ()2)() )() )() )() )() )()2 ),
-</_transisitionT>,<_transisitionU>
+</_transitionT>,<_transitionU>
 ÉÉÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÞ¹(,
 ((((N(NNNNNN(N((((((N(NNNNNN(N(((,
 (([]3()2)[](((((( ()2)() )() )() )() )() )() ),
-</_transisitionU>,<_transisitionV>
+</_transitionU>,<_transitionV>
 ÉÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÞ¦(,
 ((((NNN(((((NNN(((((NNN(((((NNN((,
 (([]3()2)W_5),
 switch to simulation of Friedman's F(5); 7 + 3a + 3 = 25 for a = 5; see the "Letter Codes" sheet.,
 ÉÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÞ—(,
 ((((N((N((((N((N((((N((N((((N((N(,
-</_transisitionV>,<_transisitionW>
+</_transitionV>,<_transitionW>
 NB: W_a = (X(X (..([])..) )), where the X's are letter codes of length a; |W_a| = 3a + 3,
 ÉÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÞ…(,
 ((((NN(NN(((NN(NN(((NN(NN(((NN(NN,
@@ -147,7 +147,7 @@ NB: W_a = (X(X (..([])..) )), where the X's are letter codes of length a; |W_a| 
 x > F(5), x = 6 + 4[(m+1)+m+(m-1)+…+1] + 3(4) + 3 = 21 + 2(m+1)(m+2),
 ÉÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÞq(,
 N)N((((((((((((((((((((((((((((((N,
-</_transisitionW>,<_transisitionX>
+</_transitionW>,<_transitionX>
 m > sqrt(x)2 > F_i^3(4) > F_i F_w(i),
 ÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÉÉ(,
 q…É¦¹É……(N)N((((((((((((((((((((((((((((((N,
@@ -155,17 +155,17 @@ q…É¦¹É……(N)N((((((((((((((((((((((((((((((N,
 t_1 > F_j^4(4),
 ÞÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÉ¹(,
 `É`…`Þ—q¦…ÉN)N((((((((((((((((((((((((((((((N,
-</_transisitionX>,<_transisitionY>
+</_transitionX>,<_transitionY>
 k_1 > sqrt(t_1)2 > F_k_(j-1)^3(4),
 ÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÉN(,
 ¹Þ¹¦¦……q(¹¦É¹`—(ÞÉ¦qq¦N)N((((((((((((((((((((((((((((((N,
-</_transisitionY>,<_transisitionZ>
+</_transitionY>,<_transitionZ>
 …,
 ÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉÉ((,
 ¦…¦N(ÉNÉÉÞ``¦¦¹q`ÞÉÞq``…N)N((((((((((((((((((((((((((((((N,
-</_transisitionZ>,<_transition0>
+</_transitionZ>,<_transition0>
 u > F_k_j^4(4),
 ÉÉ¹ÞÞ¹ÉÞÉÉÞÉÉ¹Þ(,
 —`qq…¹¦qq(`¹q¦(—q¹`Nq—NN—`N)N((((((((((((((((((((((((((((((N,
-</transition0>,<transition1)
-k > sqrt(u),</transition1></Field>
+</_transition0>,<_transition1>
+k > sqrt(u),</_transition1></Field>
